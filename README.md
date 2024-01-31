@@ -1,1 +1,5 @@
 # Accident-Prediction-and-Prevention
+
+The project leverages Python libraries such as Pandas, Seaborn, and Matplotlib to gain insights into the correlation between accident severity and various features including weather conditions, time, location, traffic, and historical accident data. By employing machine learning and deep learning models, including Random Forest, Logistic Regression, and Neural Networks, the primary objective is to predict accident severity. Additionally, QGIS is utilized to visualize hotspot areas exhibiting high accident severity based on the collected data. To further enhance the project's capabilities, Computer Vision algorithms are applied to video datasets, predicting potential conflict points where accidents are likely to occur. This wealth of information serves as a foundation for implementing targeted interventions, contributing significantly to an overall enhancement in road safety.
+
+# Tech in Use : Python Libraries, Machine Learning , Deep Learning , Computer Vision, QGIS.
